@@ -22,10 +22,10 @@ El dataset es un relevamiento de datos sobre las distintas unidades de investiga
 
 <img src="Img/01.png" alt="img-01">
 
-Img/02.png
+<img src="Img/02.png" alt="img-02">
 
-Img/03.png
+<img src="Img/03.png" alt="img-03">
 
 ### Captura del dashboard
 
-Img/dashboard.jpg
+<img src="Img/dashboard.jpg" alt="img-dashboard">
