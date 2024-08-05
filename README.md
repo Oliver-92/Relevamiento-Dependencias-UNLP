@@ -20,7 +20,7 @@ El dataset es un relevamiento de datos sobre las distintas unidades de investiga
 
 ### Algunas visualiciones del EDA
 
-(Img/01.png)
+!(Img/01.png)
 
 Img/02.png
 
