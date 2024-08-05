@@ -6,6 +6,7 @@ Además, realicé un Dashboard interactivo con visualizaciones de todas las vari
 ## Descripción de los datos
 
 El dataset es un relevamiento de datos sobre las distintas unidades de investigación y desarrollo (UID) de la Universidad Nacional de La Plata, con vistas a dar mayor visibilidad a la producción científica de esta casa de estudios. El mismo fue realizado por Maitini, José; Villarreal, Gonzalo Luján; Vila, María Marta; Manzur, Ezequiel; De Giusti, Marisa R. 
+
 Fuente: http://sedici.unlp.edu.ar/handle/10915/104853
 
 ## Tecnologías Utilizadas
